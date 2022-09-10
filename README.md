@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kancha0786
+- 👋 Hi, I’m Kanchan Saxena
 - 👀 I’m interested in Data structure and alorithms
 - 🌱 I’m currently learning programming languages
 - 📫 How to reach me kanchansaxena0786@gmail.com
